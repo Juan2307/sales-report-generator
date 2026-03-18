@@ -1,0 +1,10 @@
+1;Producto1;1034
+2;Producto2;1011
+3;Producto3;1079
+4;Producto4;1049
+5;Producto5;1075
+6;Producto6;1058
+7;Producto7;1027
+8;Producto8;1089
+9;Producto9;1086
+10;Producto10;1001
