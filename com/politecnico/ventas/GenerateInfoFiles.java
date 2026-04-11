@@ -172,6 +172,6 @@ public class GenerateInfoFiles {
                 writer.newLine();
             }
         }
-    }
-   
+	}
+
 }
