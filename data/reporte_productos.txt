@@ -1,0 +1,10 @@
+Producto8;1076
+Producto2;1093
+Producto9;1080
+Producto3;1041
+Producto5;1025
+Producto6;1084
+Producto10;1030
+Producto4;1060
+Producto7;1034
+Producto1;1028
